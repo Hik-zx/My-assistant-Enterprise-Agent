@@ -8,6 +8,7 @@ Agent的项目记录，方便后续持续更新与展示。
 [![Milvus](https://img.shields.io/badge/Milvus-2.5+-blue.svg)](https://milvus.io/)  
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Docker](https://img.shields.io/badge/docker-compose-2499ED.svg)](https://www.docker.com/)
+SuperAssistant Overview (Hik-zx/My-assistant-Enterprise-Agent)
 
 ## 本地部署
 
