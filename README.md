@@ -1,7 +1,13 @@
 # SuperAssistant 项目说明
 
 Agent的项目记录，方便后续持续更新与展示。
-https://deepwiki.com/Hik-zx/My-assistant-Enterprise-Agent/2.1-api-layer-and-authentication
+[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)  
+[![Vue 3](https://img.shields.io/badge/Vue-3.0+-4FC08D.svg)](https://vuejs.org/)  
+[![LangGraph](https://img.shields.io/badge/LangGraph-LangChain-orange.svg)](https://langchain-ai.github.io/langgraph/)  
+[![Milvus](https://img.shields.io/badge/Milvus-2.5+-blue.svg)](https://milvus.io/)  
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
+[![Docker](https://img.shields.io/badge/docker-compose-2499ED.svg)](https://www.docker.com/)
 
 ## 本地部署
 
